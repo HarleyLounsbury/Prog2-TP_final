@@ -1,0 +1,41 @@
+1;Who Needs Pictures;Brad Paisley;Country;04:32;Album inconnu;1999
+2;Because of You;Shania Twain;Country;04:36;Now;2018
+3;YMCA;Village People;Disco;04:54;Album inconnu;1987
+4;Take on me;A-Ha;Pop;03:46;Album inconnu;1984
+5;Two People Fell in Love;Brad Paisley;Country;03:51;the Part II album;2002
+6;Coming Home;Keith Urban;Country;04:12;Album inconnu;2018
+7;Dearly Departed;Aaron Carter;Dance;03:49;Album inconnu;2018
+8;Fast Car;Tracy Chapman;Folk;05:02;Tracy Chapman;1987
+9;Wated Time;Keith Urban;Country;04:15;Album inconnu;2016
+10;Who's gonna be your girl ?;Shania Twain;Country;03:24;Now;2018
+11;Still Loving You;Scorpions;Hard Rock;03:24;Album inconnu;1984
+12;He Didn't Have to Be;Brad Paisley;Country;03:12;Album inconnu;1999
+13;Rock My Car;Scorpions;Hard Rock;04:36;Return to Forever;2015
+14;Someone like you;Adele;Pop;04:18;21;2011
+15;Time Out Of Mind;Bob Dylan;Folk;03:51;Album inconnu;1997
+16;Don't blame me;Taylor Swift;Country;04:23;Reputation;2017
+17;Parallel Line;Keith Urban;Country;05:02;Album inconnu;2018
+18;Champion;Aaron Carter;Dance;04:19;Album inconnu;2018
+19;Sensualité;Axelle Red;Pop;04:19;Sans plus attendre;1993
+20;Le cœur dans la tête;Ariane Moffatt;Pop;04:23;Album inconnu;2005
+21;Ma Baker;Boney M;Disco;03:58;Album inconnu;1977
+22;J'veux tout;Ariane Moffatt;Pop;03:49;Tous les sens;2009
+23;I Wish You'd Stay;Brad Paisley;Country;04:54;the Part II album;2002
+24;In the Navy;Village People;Disco;03:53;Album inconnu;1987
+25;Can't stop the music;Village People;Disco;04:54;Album inconnu;1987
+26;I did something bad;Taylor Swift;Country;04:16;Reputation;2017
+27;Love And Theft;Bob Dylan;Folk;04:12;Album inconnu;2001
+28;Female;Keith Urban;Country;03:56;Album inconnu;2017
+29;Behind The Wall;Tracy Chapman;Folk;03:56;Tracy Chapman;1984
+30;Talkin' 'Bout a Revolution;Tracy Chapman;Folk;04:15;Tracy Chapman;1987
+31;Let's kiss and make up;Shania Twain;Country;05:01;Now;2018
+32;We Built This House;Scorpions;Hard Rock;05:01;Return to Forever;2015
+33;New Years Day;Taylor Swift;Country;03:46;Reputation;2017
+34;Le monde tourne mal;Axelle Red;Pop;05:21;Sans plus attendre;1993
+35;End Game;Taylor Swift;Country;04:18;Reputation;2017
+36;No More I Love You's;Annie Lennox;Pop;04:16;Medusa;1994
+37;Daddy Cool;Boney M;Disco;04:36;Take the heat off me;1987
+38;Rivers of Babylon;Boney M;Disco;04:38;Nightflight to Venus;1978
+39;Almost There;Aaron Carter;Dance;05:21;Album inconnu;1987
+40;Wrapped Around;Brad Paisley;Country;03:47;the Part II album;2002
+41;A Tâtons;Axelle Red;Pop;04:36;A tâtons;1996
